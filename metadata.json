@@ -1,0 +1,5 @@
+{
+  "name": "Simple Account Manager",
+  "description": "A simple Progressive Web App (PWA) to track income, expenses, account balances (bank and cash), and view a profit and loss statement.",
+  "requestFramePermissions": []
+}
